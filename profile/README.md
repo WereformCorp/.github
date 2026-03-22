@@ -167,6 +167,14 @@ Externally, it positions itself as a **provider of multiple products and service
 ### Maturity Assessment
 **Early-stage platform architecture with active structural transition**
 
+## 📊 Organisation Stats
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/WereformCorp&query=public_repos&label=Public%20Repos&style=for-the-badge)
+
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/WereformCorp&query=followers&label=Followers&style=for-the-badge)
+
+![Created](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/WereformCorp&query=created_at&label=Created&style=for-the-badge)
+
 ---
 
 # 🤝 Contributing
